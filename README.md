@@ -12,7 +12,8 @@
 </div>
 
 <h1 align="center">
-  hey there
+                  
+  hey there, I'm Daniil
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -23,13 +24,14 @@
  ---
 
 ### :man_technologist: Обо мне:
-Я Python Developer из России.
+Я Python Developer.
 
 - :telescope: На данный момент занимаюсь в основном разработкой ботов для Дискорд серверов.
 
 - :seedling: Изучаю сейчас Django, FastApi.
 
 ---
+                                                                                                                   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -52,6 +54,7 @@
 ### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zloiben&theme=tokyonight&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-                                                                                                                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zloiben&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=zloiben&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zloiben&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
