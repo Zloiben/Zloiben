@@ -61,8 +61,21 @@
 
 ---
 
+<div id="projects">
+  <h3>:fire: My Project:</h3>
+  <div id="public">
+    <h4>Public:</h4>
+    <li>BMS Application</li>
+  </div>
+  <div id="private">
+    <h4>Private:</h4>
+  </div>
+</div>
+
 ### :fire: My Project :
 
-## Public
+#### Public
 
-## Private 
+* ###### BMS Application
+
+#### Private 
