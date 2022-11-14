@@ -45,4 +45,6 @@
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/postgreesql.png" title="postgreesql" alt="postgreesql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/python.png" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/reg_ru.webp" title="RegRu"  alt="RegRu" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/Zloiben/Profile/blob/main/assets/api.png" title="api"  alt="api" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/Zloiben/Profile/blob/main/assets/c-plus-plus-logo.png" title="C-plus-plus"  alt="C-plus-plus" width="40" height="40"/>&nbsp;
 </div>
