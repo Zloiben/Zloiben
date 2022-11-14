@@ -29,8 +29,6 @@
 
 - :seedling: Изучаю сейчас Django, FastApi.
 
-- :zap: В свободное время, Я люблю просто поиграть в игры или читать книги, так же порешать задачи на codewars.
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
