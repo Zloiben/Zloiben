@@ -32,7 +32,7 @@
 
 ---
                                                                                                                    
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки программирования и инструменты :
 <div>
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/dj.png" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -51,10 +51,18 @@
  
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zloiben&theme=tokyonight&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=zloiben&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zloiben&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :fire: My Project :
+
+## Public
+
+## Private 
