@@ -71,10 +71,11 @@
     <img src="https://img.shields.io/badge/API-black?style=for-the-badge&logo=Strapi&logoColor=blue" alt="API"/>
   </a>
   <a href="https://discordapp.com/users/573078029052674058/">
-    <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C++&logoColor=blue" alt="postgreesql"/>
+    <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C&logoColor=blue" alt="c-plus-plus"/>
   </a>
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/api.png" title="api"  alt="api" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/Zloiben/Profile/blob/main/assets/c-plus-plus-logo.png" title="C-plus-plus"  alt="C-plus-plus" width="40" height="40"/>&nbsp;
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=blue" alt="c"/>
+  </a>
 </div>
  
 ---
