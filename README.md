@@ -23,7 +23,7 @@
 
  ---
 
-### :man_technologist: Обо мне:
+## :man_technologist: Обо мне:
 Я Python Developer.
 
 - :telescope: На данный момент занимаюсь в основном разработкой ботов для Дискорд серверов.
@@ -32,7 +32,7 @@
 
 ---
                                                                                                                    
-### :hammer_and_wrench: Языки программирования и инструменты :
+## :hammer_and_wrench: Языки программирования и инструменты :
 <div>
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/dj.png" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -51,7 +51,7 @@
  
 ---
 
-### :fire: Моя статистика :
+## :fire: Моя статистика :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zloiben&theme=tokyonight&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -62,10 +62,10 @@
 ---
 
 <div id="projects">
-  <h1>:fire: My Project:</h1>
+  <h2>:fire: My Project:</h2>
   <div id="public">
-    <h2>Public:</h2>
-     <h3><li>BMS Application</li></h3>
+    <h3>Public:</h3>
+     <h4><li>BMS Application</li></h4>
     <div>
       <div id="banner">
          <img src="https://github.com/Zloiben/Zloiben/blob/main/assets/banner-in-BMS.png" alt="Навигации"/>
