@@ -36,10 +36,10 @@
     </div>
     </br>
     <div id="addition">
-      <p>- :seedling: Изучаю сейчас Django, FastApi.</p>
-      <p>- :mortar_board: Закончил Лицей Академии Яндекса. Код: #TODO: доабвить код сертификата</p>
-      <p>- :mortar_board: Заканчиваю курсы по C++ в GeekBrains.</p>
-      <p>- :watch: В свободное время занимаюсь чтением книг, или захожу порешать задачи на codewars , или играю</p>
+      <li>:seedling: Изучаю сейчас Django, FastApi.</li>
+      <li>:mortar_board: Закончил Лицей Академии Яндекса. Код: #TODO: доабвить код сертификата</li>
+      <li>:mortar_board: Заканчиваю курсы по C++ в GeekBrains.</li>
+      <li>:watch: В свободное время занимаюсь чтением книг, или захожу порешать задачи на codewars , или играю</li>
     </div>
   </div>
 </div>
@@ -111,8 +111,8 @@
   <h2>:fire: My Project:</h2>
   <div id="public">
     <h3>Public:</h3>
-     <h4><li>BMS Application</li></h4>
-    <div>
+    <div id="BMS">
+      <h4><li>BMS Application</li></h4>
       <div id="banner">
          <img src="https://github.com/Zloiben/Zloiben/blob/main/assets/banner-in-BMS.png" alt="Навигации"/>
       </div>
@@ -159,6 +159,9 @@
           <li>Добавить больше фильмов и тд</li>
         </div>
       </div>
+    </div>
+    <div id="LMS-System">
+      <div></div>
     </div>
   </div>
   <div id="private">
