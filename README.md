@@ -32,19 +32,47 @@
 
 ---
                                                                                                                    
-## :hammer_and_wrench: Языки программирования и инструменты :
+### :hammer_and_wrench: Языки программирования и инструменты :
 <div>
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/dj.png" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/flask.png" title="flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/git.png" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/heroku.png" title="Heroku" alt="Heroku " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/html-5.png"  title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_170706.png"  title="SQLite3" alt="SQLite3" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/mysql-logo.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/postgreesql.png" title="postgreesql" alt="postgreesql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/reg_ru.webp" title="RegRu"  alt="RegRu" width="60" height="40"/>&nbsp;
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" alt="CSS"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=green" alt="Django"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=dark" alt="flask"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="docker"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red" alt="git"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=Heroku&logoColor=purple" alt="Heroku"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange" alt="HTML"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=white" alt="HTML"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/Postgreesql-black?style=for-the-badge&logo=PostgreSQL&logoColor=blue" alt="postgreesql"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/Reg.Ru-black?style=for-the-badge&logo=Databricks&logoColor=blue" alt="RegRu"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/API-black?style=for-the-badge&logo=Strapi&logoColor=blue" alt="API"/>
+  </a>
+  <a href="https://discordapp.com/users/573078029052674058/">
+    <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C++&logoColor=blue" alt="postgreesql"/>
+  </a>
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/api.png" title="api"  alt="api" width="40" height="40"/>&nbsp;
    <img src="https://github.com/Zloiben/Profile/blob/main/assets/c-plus-plus-logo.png" title="C-plus-plus"  alt="C-plus-plus" width="40" height="40"/>&nbsp;
 </div>
