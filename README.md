@@ -34,47 +34,50 @@
                                                                                                                    
 ### :hammer_and_wrench: Языки программирования и инструменты :
 <div>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="http://htmlbook.ru/css3">
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" alt="CSS"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=green" alt="Django"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://flask.palletsprojects.com/en/latest/">
     <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=dark" alt="flask"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue" alt="docker"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red" alt="git"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://dashboard.heroku.com/">
     <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=Heroku&logoColor=purple" alt="Heroku"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="http://htmlbook.ru/html">
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange" alt="HTML"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=white" alt="HTML"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/Postgreesql-black?style=for-the-badge&logo=PostgreSQL&logoColor=blue" alt="postgreesql"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a href="https://www.reg.ru/">
     <img src="https://img.shields.io/badge/Reg.Ru-black?style=for-the-badge&logo=Databricks&logoColor=blue" alt="RegRu"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a>
     <img src="https://img.shields.io/badge/API-black?style=for-the-badge&logo=Strapi&logoColor=blue" alt="API"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a>
     <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C&logoColor=blue" alt="c-plus-plus"/>
   </a>
-  <a href="https://discordapp.com/users/573078029052674058/">
+  <a>
     <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=blue" alt="c"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow" alt="python"/>
   </a>
 </div>
  
