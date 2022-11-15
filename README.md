@@ -112,7 +112,7 @@
   <div id="public">
     <h4>Public:</h4>
     <div id="BMS">
-      <h5><li>BMS Application</li></h5>
+      <h5>1. BMS Application</h5>
       <div id="banner">
          <img src="https://github.com/Zloiben/Zloiben/blob/main/assets/banner-in-BMS.png" alt="Навигации"/>
       </div>
