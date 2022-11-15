@@ -9,26 +9,40 @@
   <a href="https://t.me/Zi_ddd_d">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://www.codewars.com/users/zloiben">
+      <img src="https://img.shields.io/badge/codewars-black?style=for-the-badge&logo=Codewars&logoColor=brown" alt="CodeWars Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/20501135/zloiben">
+      <img src="https://img.shields.io/badge/Stack Overflow-black?style=for-the-badge&logo=Stack Overflow&logoColor=orange" alt="Stack Overflow Badge"/>
+  </a>
 </div>
 
-<h1 align="center">
-                  
-  hey there, I'm Daniil
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=450&lines=Всем+привет.+Я+Даниил,+а+это+мое+резюме!)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img src="https://cdn.discordapp.com/banners/573078029052674058/a_777d5b08e15445e718c6ab8a6b8e8ce5.gif?size=1024"/>
 </div>
 
- ---
+---
 
-## :man_technologist: Обо мне:
-Я Python Developer.
-
-- :telescope: На данный момент занимаюсь в основном разработкой ботов для Дискорд серверов.
-
-- :seedling: Изучаю сейчас Django, FastApi.
+<div id="about me">
+  <div id="title">
+    <h3> :man_technologist: Обо мне:</h3>
+  </div>
+  <div id="info">
+    <div id="main">
+      Я Python Developer. На данный момент занимаюсь в основном разработкой ботов для Дискорд серверов.
+    </div>
+    </br>
+    <div id="addition">
+      <p>- :seedling: Изучаю сейчас Django, FastApi.</p>
+      <p>- :mortar_board: Закончил Лицей Академии Яндекса. Код: #TODO: доабвить код сертификата</p>
+      <p>- :mortar_board: Заканчиваю курсы по C++ в GeekBrains.</p>
+      <p>- :watch: В свободное время занимаюсь чтением книг, или захожу порешать задачи на codewars , или играю</p>
+    </div>
+  </div>
+</div>
 
 ---
                                                                                                                    
