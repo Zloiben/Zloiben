@@ -108,11 +108,11 @@
 ---
 
 <div id="projects">
-  <h2>:fire: My Project:</h2>
+  <h3>:fire: My Project:</h3>
   <div id="public">
-    <h3>Public:</h3>
+    <h4>Public:</h4>
     <div id="BMS">
-      <h4><li>BMS Application</li></h4>
+      <h5><li>BMS Application</li></h5>
       <div id="banner">
          <img src="https://github.com/Zloiben/Zloiben/blob/main/assets/banner-in-BMS.png" alt="Навигации"/>
       </div>
