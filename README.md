@@ -107,6 +107,18 @@
 
 ---
 
+### :pushpin: Полезные Репозитории
+                                                                                                                   
+ * [Решенные задачи с CodeWars](https://github.com/Zloiben/CodeWars)
+                                                                                                                      
+ * [Архитектура для дискорд бота](https://github.com/Zloiben/Discord-Bot-Structure)
+                                                                                                                      
+ * [Архитектура дял телеграмм бота](https://github.com/Zloiben/Telegram-Bot-Structure)
+
+ * [Полезные материалы связанные с IT](https://github.com/Zloiben/Storage)
+
+---
+
 <div id="projects">
   <h3>:fire: My Project:</h3>
   <div id="public">
