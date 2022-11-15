@@ -62,11 +62,14 @@
 ---
 
 <div id="projects">
-  <h3>:fire: My Project:</h3>
+  <h1>:fire: My Project:</h1>
   <div id="public">
-    <h4>Public:</h4>
-    <li>BMS Application</li>
+    <h2>Public:</h2>
+     <h3><li>BMS Application</li></h3>
     <div>
+      <div id="banner">
+         <img src="https://github.com/Zloiben/Zloiben/blob/main/assets/banner-in-BMS.png" alt="Навигации"/>
+      </div>
       <div id="info">
         <a href="https://drive.google.com/file/d/1tstUunooTl_hQzgMTrpB1JewoeyDd_-T/view?usp=sharing">
           <img src="https://img.shields.io/badge/Навигация-black?style=for-the-badge&logo=Databricks&logoColor=orange" alt="Навигации"/>
