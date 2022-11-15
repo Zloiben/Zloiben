@@ -41,9 +41,9 @@
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/git.png" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/heroku.png" title="Heroku" alt="Heroku " width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/html-5.png"  title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_170706.png"  title="SQLite3" alt="SQLite3" width="60" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/mysql-logo.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/postgreesql.png" title="postgreesql" alt="postgreesql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Zloiben/Profile/blob/main/assets/python.png" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/reg_ru.webp" title="RegRu"  alt="RegRu" width="60" height="40"/>&nbsp;
   <img src="https://github.com/Zloiben/Profile/blob/main/assets/api.png" title="api"  alt="api" width="40" height="40"/>&nbsp;
    <img src="https://github.com/Zloiben/Profile/blob/main/assets/c-plus-plus-logo.png" title="C-plus-plus"  alt="C-plus-plus" width="40" height="40"/>&nbsp;
@@ -66,16 +66,53 @@
   <div id="public">
     <h4>Public:</h4>
     <li>BMS Application</li>
+    <div>
+      <div id="info">
+        <a href="https://drive.google.com/file/d/1tstUunooTl_hQzgMTrpB1JewoeyDd_-T/view?usp=sharing">
+          <img src="https://img.shields.io/badge/Навигация-black?style=for-the-badge&logo=Databricks&logoColor=orange" alt="Навигации"/>
+        </a>
+        <a href="https://github.com/Zloiben/Application">
+          <img src="https://img.shields.io/badge/Репозиторий-black?style=for-the-badge&logo=GitHub&logoColor=Dark" alt="Навигации"/>
+        </a>
+      </div>
+      <div id="technology">
+        <div id="title">
+           <h4>
+              Стек:
+              <img src="https://github.com/Zloiben/Profile/blob/main/assets/git.png" title="git" alt="git" width="40" height="40"/>&nbsp;
+              <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_170706.png"  title="SQLite3" alt="SQLite3" width="60" height="40"/>&nbsp;
+              <img src="https://github.com/Zloiben/Profile/blob/main/assets/python.png" title="python" alt="python" width="40" height="40"/>&nbsp;
+              <img src="https://github.com/Zloiben/Profile/blob/main/assets/api.png" title="api"  alt="api" width="40" height="40"/>&nbsp;
+          </h4>
+        </div>
+      </div>
+      <div id="in-product">
+        <div id="title">
+          <h4>Что на данный момент есть в проекте:</h6>
+        </div>
+        <div id="data-idea-in-product">
+          <li>Кэш (Бот времено сохраняет скаченные трейлеры или изображения)</li>
+          <li>Умный поиск (Может найти фильм, даже если есть ошибки в поиске, поиск по автору)</li>
+          <li>Несколько языков(Английский, Русский)</li>
+          <li>Просмотр трейлера</li>
+          <li>Сортировка</li>
+        </div>
+      </div>
+      <div id="ideas">
+        <div id="title">
+          <h4>Что будет сделано в будущем:</h6>
+        </div>
+        <div id="data-idea-in-product">
+          <li>Рефакторинг(Это был мой первый проект, поэтому код там ужасный, так же нужна оптимизация и тд)</li>
+          <li>Многопоточность (Нужно что бы при загрузке не зависала программа)</li>
+          <li>Добавить больше настроек</li>
+          <li>Переделать дизайн</li>
+          <li>Добавить больше фильмов и тд</li>
+        </div>
+      </div>
+    </div>
   </div>
   <div id="private">
     <h4>Private:</h4>
   </div>
 </div>
-
-### :fire: My Project :
-
-#### Public
-
-* ###### BMS Application
-
-#### Private 
