@@ -39,7 +39,6 @@
       <li>:seedling: Изучаю сейчас Django, FastApi.</li>
       <li>:mortar_board: Закончил Лицей Академии Яндекса. Код: #TODO: доабвить код сертификата</li>
       <li>:mortar_board: Заканчиваю курсы по C++ в GeekBrains.</li>
-      <li>:watch: В свободное время занимаюсь чтением книг, или захожу порешать задачи на codewars , или играю</li>
     </div>
   </div>
 </div>
